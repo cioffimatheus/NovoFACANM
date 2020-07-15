@@ -1,0 +1,21 @@
+Como realizo a autenticação no sistema para solicitar Requerimentos de Autorização de Pesquisa?
+=========================================================================
+
+Primeiro, você precisa ter cadastro ativo no login único do Gov.BR.
+
+
+Acesse https://acesso.gov.br/, crie sua conta de pessoa física no Login Único e, caso não tenha CTDM, obtenha os selos e-CPF ou e-CNPJ a partir do respectivo certificado digital.
+********************************************************************
+
+Com o cadastro feito, você pode realizar a autenticação no sistema para solicitar seu Requerimento de Autorização de Pesquisa utilizando o seu CPF ou Usuário ou CNPJ (caso seja Pessoa Jurídica) e sua senha. (Lembrando que esses dados precisam ser os mesmos cadastrados no login único do Gov BR).
+
+
+
+RASCUNHO CARLA:
+***************
+
+O Protocolo Digital é o sistema oficial de protocolo eletrônico de atos e documentos relacionados aos processos minerários da ANM, instituído pela Resolução ANM nº 16/2019. É fruto de X  temp ode desenvolvimento e da especificidade do setor mineral, em que um sistema que apenas registrasse data e hora de protocolo seria insuficiente. 
+
+O Código de Mineração determina o direito de prioridade aos processos minerários, e ela depende não só do marco temporal, como do espacial. O registro da prioridade da área se dá por meio de sistemas especialistas, portanto é fundamental que o direito de prioridade seja registrado primeiro nos sistemas especialistas e, posteriormente, os documentos sejam encaminhados para o SEI!, sistema designado pelo Governo Federal para ser o padrão da Administração Pública Federal para os processos eletrônicos.
+
+O Protocolo Digital trata-se, então, da ferramenta que faz a integração entre o Cadastro Mineiro e o SEI!, permitindo que a ANM disponibilize aos cidadãos a conveniência, praticipidade e economicidade de utilizar um sistema remoto, sem descuidar da tradição do direito minerário.
